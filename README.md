@@ -36,7 +36,7 @@ pipenv run pytest
 5. **Baby steps**: Implement simplest algorithm first, then generate it later when you identify some patterns.
 6. Refactor your codes.
 7. Refactor your tests too!
-8. Don't refactr when your tests are failing. Make tests pass first.
+8. Don't refactor when your tests are failing. Make tests pass first.
 
 
 ## References:
