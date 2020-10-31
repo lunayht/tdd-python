@@ -40,6 +40,6 @@ pipenv run pytest
 
 
 ## References:
-[1] https://github.com/davified/clean-code-ml
-[2] https://github.com/JuniorDevSingapore/coding_dojo
-[3] https://refactoring.guru/refactoring 
+[1] https://github.com/davified/clean-code-ml <br>
+[2] https://github.com/JuniorDevSingapore/coding_dojo <br>
+[3] https://refactoring.guru/refactoring <br>
