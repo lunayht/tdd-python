@@ -7,7 +7,7 @@ pip install pipenv
 2. Clone this repo for the code and change directory into the folder.
 
 ```shell
-git clone https://github.com/tanyinghui/tdd-python.git
+git clone https://github.com/potatotoro/tdd-python.git
 
 cd tdd-python/
 ```
